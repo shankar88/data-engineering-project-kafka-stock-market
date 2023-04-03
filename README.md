@@ -1,1 +1,1 @@
-# data-engineering-project-kafka-stock-market
+# Kafka Real Time Data Engineering Project
