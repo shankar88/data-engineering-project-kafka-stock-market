@@ -6,7 +6,7 @@ In this project I have implemented an End-To-End Data Engineering Project simula
 
 ## Detailed Explanation in portfolio page
 
-https://www.gowrirajavelu.com/project-page/kafka-athena-streaming-project
+https://www.gowrirajavelu.com/project-page/aws-projects/kafka-athena-streaming-project
 
 ## Architecture
 
